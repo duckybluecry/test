@@ -5,9 +5,9 @@
 
 
 $servername = "localhost";
-$database = "xx";
-$username = "xx";
-$password = "xx";
+$database = "kvojpskc_juegotankes";
+$username = "kvojpskc_juegotankesuser";
+$password = "jesus!!Pzh56()=olp19";
 
 
 
