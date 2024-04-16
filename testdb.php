@@ -4,10 +4,10 @@
 
 
 
-$servername = "localhost";
-$database = "kvojpskc_juegotankes";
-$username = "kvojpskc_juegotankesuser";
-$password = "jesus!!Pzh56()=olp19";
+$servername = "";
+$database = "";
+$username = "";
+$password = "";
 
 
 
